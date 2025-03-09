@@ -37,7 +37,7 @@ public class MyArray : IOutput
     }
 }
 
-// Main program for testing
+// testing
 class Program
 {
     static void Main()
